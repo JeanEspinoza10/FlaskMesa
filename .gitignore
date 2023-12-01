@@ -1,0 +1,30 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos generados durante la ejecución del código
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyzw
+
+# Archivo de registro
+*.log
+
+# Archivos de configuración sensibles
+config.ini
+secrets.json
+
+# Archivos específicos de tu editor o IDE (por ejemplo, para Visual Studio Code)
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de dependencias generados
+.idea/
+*.egg-info/
+dist/
+build/
+.env
